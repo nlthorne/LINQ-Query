@@ -1,0 +1,12 @@
+C:\Users\nltho\Documents\GitHub\BinaryTree\GradeAverage\GradeAverage\bin\Debug\GradeAverage.exe.config
+C:\Users\nltho\Documents\GitHub\BinaryTree\GradeAverage\GradeAverage\bin\Debug\GradeAverage.exe
+C:\Users\nltho\Documents\GitHub\BinaryTree\GradeAverage\GradeAverage\bin\Debug\GradeAverage.pdb
+C:\Users\nltho\Documents\GitHub\BinaryTree\GradeAverage\GradeAverage\obj\Debug\GradeAverage.csprojResolveAssemblyReference.cache
+C:\Users\nltho\Documents\GitHub\BinaryTree\GradeAverage\GradeAverage\obj\Debug\GradeAverage.exe
+C:\Users\nltho\Documents\GitHub\BinaryTree\GradeAverage\GradeAverage\obj\Debug\GradeAverage.pdb
+C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\GradeAverage\bin\Debug\GradeAverage.exe.config
+C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\GradeAverage\obj\Debug\GradeAverage.exe
+C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\GradeAverage\obj\Debug\GradeAverage.pdb
+C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\GradeAverage\bin\Debug\GradeAverage.exe
+C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\GradeAverage\bin\Debug\GradeAverage.pdb
+C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\GradeAverage\obj\Debug\GradeAverage.csprojResolveAssemblyReference.cache
