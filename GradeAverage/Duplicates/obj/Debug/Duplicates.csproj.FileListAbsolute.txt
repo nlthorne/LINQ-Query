@@ -1,0 +1,6 @@
+C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\Duplicates\bin\Debug\Duplicates.exe.config
+C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\Duplicates\bin\Debug\Duplicates.exe
+C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\Duplicates\bin\Debug\Duplicates.pdb
+C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\Duplicates\obj\Debug\Duplicates.csprojResolveAssemblyReference.cache
+C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\Duplicates\obj\Debug\Duplicates.exe
+C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\Duplicates\obj\Debug\Duplicates.pdb
