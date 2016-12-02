@@ -9,3 +9,4 @@ C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\GradeAverage\obj\Debug\G
 C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\GradeAverage\obj\Debug\GradeAverage.pdb
 C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\GradeAverage\bin\Debug\GradeAverage.exe
 C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\GradeAverage\bin\Debug\GradeAverage.pdb
+C:\Users\nltho\Documents\GitHub\LINQ-Query\GradeAverage\GradeAverage\obj\Debug\GradeAverage.csprojResolveAssemblyReference.cache

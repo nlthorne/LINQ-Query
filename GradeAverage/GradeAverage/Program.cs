@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Duplicates;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,9 @@ namespace GradeAverage
         {
             GradeAverage gradeAverage = new GradeAverage();
             gradeAverage.DisplayResults();
+            Console.WriteLine("\n ================================");
+            RemoveDuplicate removeDuplicate = new RemoveDuplicate();
+            removeDuplicate.DisplayResults();
             Console.ReadLine();
         }
     }
