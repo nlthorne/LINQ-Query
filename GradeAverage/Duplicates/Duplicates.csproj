@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2777D645-5063-46A3-8027-831552DC0338}</ProjectGuid>
+    <ProjectGuid>{CC0D84AA-0F12-4945-A20A-8BBDFEBE58C4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GradeAverage</RootNamespace>
-    <AssemblyName>GradeAverage</AssemblyName>
+    <RootNamespace>Duplicates</RootNamespace>
+    <AssemblyName>Duplicates</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GradeAverage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoveDuplicate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
